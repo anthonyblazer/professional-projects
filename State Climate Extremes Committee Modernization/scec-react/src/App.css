@@ -1,0 +1,94 @@
+/* App.jsx */
+.App {
+  text-align: center;
+}
+
+table th:nth-child(1),
+table td:nth-child(1) {
+  width: 10%;
+}
+
+table th:nth-child(2),
+table td:nth-child(2) {
+  width: 20%;
+}
+table th:nth-child(3),
+table td:nth-child(3) {
+  width: 10%;
+}
+
+table th:nth-child(4),
+table td:nth-child(4) {
+  width: 20%;
+}
+
+table th:nth-child(5),
+table td:nth-child(5) {
+  width: 20%;
+}
+table th:nth-child(6),
+table td:nth-child(6) {
+  width: 12%;
+}
+table th:nth-child(7),
+table td:nth-child(7) {
+  width: 8%;
+}
+
+#section-title {
+  padding-top: 1rem;
+  font-family: "Source Sans Pro", Arial, sans-serif;
+}
+
+#dark-back th {
+  background-color: rgb(3, 3, 87);
+  color: #fff;
+}
+
+
+#main-app-container {
+  margin-top: 1rem;
+  border: 1px solid black;
+  font-family: "Source Sans Pro", Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+#options-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#button-container button {
+  /* Target the button elements inside the container */
+  margin-left: 5px; /* Adjust the value as needed */
+  border: 2px solid rgb(84, 106, 235);
+  color: rgb(84, 106, 235);
+}
+
+/* Optional: Reset margin for the first button if you only want space between */
+#button-container button:first-child {
+  margin-left: 0;
+}
+
+#main-table .status-btn-modal {
+  cursor: pointer;
+}
+
+/** RecordInfoModal.jsx */
+
+/** Tools.jsx */
+#station-id,
+#record-status-linked {
+  text-decoration: none;
+}
+
+/** Major alterations*/
+td {
+  padding: 10px 20px !important;
+  vertical-align: middle;
+}
+
+#main-app-container {
+  width: 100% !important;
+  font-size: 0.95rem;
+}

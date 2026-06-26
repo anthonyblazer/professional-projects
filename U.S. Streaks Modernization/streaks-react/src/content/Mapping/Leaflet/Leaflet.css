@@ -1,0 +1,80 @@
+.leaflet-control-container .leaflet-top.leaflet-left {
+    margin-top: 100px; /* Adjust this value to create the desired space */
+}
+.leaflet-popup-content {
+    width: 140px;
+}
+
+/***********************
+     Component styling 
+***********************/
+.corner-noaa-logo {
+  position: absolute;
+  z-index: 1000;
+  width: 55px;
+  height: 55px;
+  top: 0;
+  right: 0;
+  margin: 15px;
+}
+.legend-bar-div {
+  position: absolute;
+  z-index: 1000;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.color-bar {
+  display: flex;
+  flex-direction: row;
+  height: 20px;
+  border: 1px solid black;
+}
+.number-bar {
+  display: flex;
+  flex-direction: row;
+  font-size: 10px;
+  color: #888;
+  margin-top: 5px;
+}
+.legend-number {
+  width: 30px;
+  text-align: left;
+}
+.legend-color {
+  width: 30px;
+  height: 100%;
+}
+.info-bar-div {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  background-color: #ffffffff;
+  border-top: 1px solid #ddd;
+  border-radius: 5px;
+  z-index: 999;
+  font-size: 18px;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
+.buttons-div {
+  position: absolute;
+  bottom: 120px;
+  left: 20px;
+  z-index: 1000;
+  display: flex;
+  gap: 10px;
+}
+.us-multinav-div {
+  position: absolute;
+  bottom: 120px; /* Adjust this value to position it correctly above the info bar */
+  left: 20px;
+  z-index: 1000; /* Higher than the info bar to ensure it's on top */
+  display: flex;
+  gap: 10px;
+}

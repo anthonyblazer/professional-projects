@@ -1,0 +1,9 @@
+{
+  "E": "Value is unchanged from previous extremes tables last updated by NCEI (formerly NCDC) between 1998 and 2006. Value exceeds all other valid values.",
+  "N": "Value is changed from extremes tables last updated by NCEI (formerly NCDC) between 1998 and 2006. Value exceeds all other valid values.",
+  "1": "Value ties values from earlier dates.",
+  "2": "Value set at multiple stations on the same date.",
+  "3": "Value set at multiple locations on the same date and ties values from earlier dates.",
+  "S": "Value has been officially reviewed by a State Climate Extremes Committee.",
+  "A": "Additional information is available. Official value may be exceeded by a widely accepted unofficial value that is not supported by a direct, calibrated observation (e.g., estimates, uncalibrated instruments, anecdotal reports)."
+}

@@ -1,0 +1,5311 @@
+[
+  {
+    "state": "AL",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Dauphin Island Sea Lab",
+        "station_id": "012172",
+        "value": 32.52,
+        "begdate": "July 19, 1997",
+        "enddate": "July 20, 1997",
+        "status": "EA",
+        "note_seq": 1
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AL",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Walnut Grove",
+        "station_id": "018648",
+        "value": 20,
+        "begdate": "March 13, 1993",
+        "enddate": "March 13, 1993",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AL",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Reform",
+        "station_id": "016847",
+        "value": 22,
+        "begdate": "January 24, 1940",
+        "enddate": "January 24, 1940",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AL",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Centerville",
+        "station_id": "011520",
+        "value": 112,
+        "begdate": "September 6, 1925",
+        "enddate": "September 6, 1925",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AL",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "New Market",
+        "station_id": "015867",
+        "value": -27,
+        "begdate": "January 30, 1966",
+        "enddate": "January 30, 1966",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AL",
+    "element_seq": 24,
+    "current": [
+      {
+        "location": "Walter",
+        "station_id": "N/A",
+        "value": 0.6125,
+        "begdate": "March 19, 2018",
+        "enddate": "March 19, 2018",
+        "status": "NSA",
+        "note_seq": 98
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AL",
+    "element_seq": 25,
+    "current": [
+      {
+        "location": "Walter",
+        "station_id": "N/A",
+        "value": 13.75,
+        "begdate": "March 19, 2018",
+        "enddate": "March 19, 2018",
+        "status": "NSA",
+        "note_seq": 98
+      }
+    ],
+    "previous": []
+  },
+  {
+		"state":       "AL",
+		"element_seq": 26,
+		"current": [{"location":    "Walter",
+		"station_id":  "N/A",
+		"value":       5.38,
+		"begdate":     "March 19, 2018",
+		"enddate":     "March 19, 2018",
+		"status":      "NSA",
+		"note_seq":    98}],
+    "previous": []
+	},
+  {
+		"state":       "AL",
+		"element_seq": 27,
+		"current": [{"location":    "Walter",
+		"station_id":  "N/A",
+		"value":       19.80,
+		"begdate":     "March 19, 2018",
+		"enddate":     "March 19, 2018",
+		"status":      "NSA",
+		"note_seq":    98}],
+    "previous": []
+	},
+  {
+    "state": "AK",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Seward",
+        "station_id": "26438",
+        "value": 15.05,
+        "begdate": "October 10, 1986",
+        "enddate": "October 10, 1986",
+        "status": "N",
+        "note_seq": 52
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AK",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Mile 47 Camp",
+        "station_id": "505878",
+        "value": 78,
+        "begdate": "February 9, 1963",
+        "enddate": "February 9, 1963",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AK",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Fort Yukon",
+        "station_id": "26413",
+        "value": 100,
+        "begdate": "June 27, 1915",
+        "enddate": "June 27, 1915",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AK",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Prospect Creek Camp",
+        "station_id": "507778",
+        "value": -80,
+        "begdate": "January 23, 1971",
+        "enddate": "January 23, 1971",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AK",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Valdez Municipal Airport",
+        "station_id": "509685",
+        "value": 192,
+        "begdate": "March 7, 2008",
+        "enddate": "March 7, 2008",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Valdez Municipal Airport",
+        "station_id": "509685",
+        "value": 192,
+        "begdate": "April 11, 2008",
+        "enddate": "April 11, 2008",
+        "status": "N1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AZ",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Workman Creek",
+        "station_id": "029534",
+        "value": 11.4,
+        "begdate": "September 4, 1970",
+        "enddate": "September 5, 1970",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AZ",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Heber Ranger Stn",
+        "station_id": "023961",
+        "value": 38,
+        "begdate": "December 14, 1967",
+        "enddate": "December 14, 1967",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Alpine",
+        "station_id": "020170",
+        "value": 38,
+        "begdate": "February 25, 1987",
+        "enddate": "February 25, 1987",
+        "status": "N1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AZ",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Hawley Lake",
+        "station_id": "023926",
+        "value": 91,
+        "begdate": "December 21, 1967",
+        "enddate": "December 21, 1967",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AZ",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Lake Havasu City",
+        "station_id": "024761",
+        "value": 128,
+        "begdate": "June 29, 1994",
+        "enddate": "June 29, 1994",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AZ",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Hawley Lake",
+        "station_id": "023926",
+        "value": -40,
+        "begdate": "January 7, 1971",
+        "enddate": "January 7, 1971",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AR",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Big Fork",
+        "station_id": "030664",
+        "value": 14.06,
+        "begdate": "December 3, 1982",
+        "enddate": "December 3, 1982",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AR",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Corning",
+        "station_id": "031632",
+        "value": 25,
+        "begdate": "January 22, 1918",
+        "enddate": "January 22, 1918",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AR",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Calico Rock 2WSW",
+        "station_id": "031132",
+        "value": 26,
+        "begdate": "January 22, 1918",
+        "enddate": "January 22, 1918",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AR",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Ozark",
+        "station_id": "035508",
+        "value": 120,
+        "begdate": "August 10, 1936",
+        "enddate": "August 10, 1936",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AR",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Brook Farm Pond (near Gravette)",
+        "station_id": "032930",
+        "value": -29,
+        "begdate": "February 13, 1905",
+        "enddate": "February 13, 1905",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "AR",
+    "element_seq": 10,
+    "current": [
+      {
+        "location": "Big Fork 1 SSE",
+        "station_id": "030664",
+        "value": 101.05,
+        "begdate": "January 1, 2015",
+        "enddate": "December 31, 2015",
+        "status": "NA",
+        "note_seq": 100
+      }
+    ],
+    "previous": [
+      {
+        "location": "New Hope",
+        "station_id": "N/A",
+        "value": 98.55,
+        "begdate": "1957",
+        "enddate": "1957",
+        "status": "NA",
+        "note_seq": 100
+      },
+      {
+        "location": "Leola",
+        "station_id": "034134",
+        "value": 100.05,
+        "begdate": "July 1, 2008",
+        "enddate": "June 30, 2009",
+        "status": "NA",
+        "note_seq": 100
+      }
+    ]
+  },
+  {
+    "state": "CA",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Echo Summit Sierra at Tahoe",
+        "station_id": "042671",
+        "value": 67,
+        "begdate": "January 5, 1982",
+        "enddate": "January 5, 1982",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "CA",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Tamarack",
+        "station_id": "048781",
+        "value": 451,
+        "begdate": "March 11, 1911",
+        "enddate": "March 11, 1911",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "CA",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Greenland Ranch",
+        "station_id": "043603",
+        "value": 134,
+        "begdate": "July 10, 1913",
+        "enddate": "July 10, 1913",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "CA",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Boca",
+        "station_id": "040931",
+        "value": -45,
+        "begdate": "January 20, 1937",
+        "enddate": "January 20, 1937",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "CA",
+    "element_seq": 28,
+    "current": [
+      {
+        "location": "Alpine Summit (Ward Mt)",
+        "station_id": "SUMAM (MesoWest)",
+        "value": 199,
+        "begdate": "February 20, 2017",
+        "enddate": "February 20, 2017",
+        "status": "SA",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "CO",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Silver Lake",
+        "station_id": "057648",
+        "value": 75.8,
+        "begdate": "April 14, 1921",
+        "enddate": "April 15, 1921",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "CO",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Wolf Creek Pass 1E",
+        "station_id": "059181",
+        "value": 251,
+        "begdate": "March 31, 1979",
+        "enddate": "March 31, 1979",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "CO",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Maybell",
+        "station_id": "055446",
+        "value": -61,
+        "begdate": "February 1, 1985",
+        "enddate": "February 1, 1985",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "CO",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "John Martin Dam",
+        "station_id": "054388",
+        "value": 115,
+        "begdate": "July 20, 2019",
+        "enddate": "July 20, 2019",
+        "status": "NA",
+        "note_seq": 4
+      }
+    ],
+    "previous": [
+      {
+        "location": "Las Animas",
+        "station_id": "N/A",
+        "value": 115,
+        "begdate": "July 1, 1933",
+        "enddate": "July 1, 1933",
+        "status": "NA",
+        "note_seq": 4
+      }
+    ]
+  },
+  {
+    "state": "CO",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "USGS Rod & Gun (Ft. Carson)",
+        "station_id": "USGS 384053104492001",
+        "value": 11.85,
+        "begdate": "September 12, 2013",
+        "enddate": "September 12, 2013",
+        "status": "NA",
+        "note_seq": 96
+      }
+    ],
+    "previous": []
+  },
+  {
+		"state":       "CO",
+		"element_seq": 24,
+		"current": [{"location":    "8 mi NNW of Bethune",
+		"station_id":  "",
+		"value":       0.53125,
+		"begdate":     "August 13, 2019",
+		"enddate":     "August 13, 2019",
+		"status":      "SA",
+		"note_seq":    ""}],
+    "previous": []
+	},
+	{
+		"state":       "CO",
+		"element_seq": 25,
+		"current": [{"location":    "8 mi NNW of Bethune",
+		"station_id":  "",
+		"value":       12.875,
+		"begdate":     "August 13, 2019",
+		"enddate":     "August 13, 2019",
+		"status":      "SA",
+		"note_seq":    ""}],
+    "previous": []
+	},
+	{
+		"state":       "CO",
+		"element_seq": 26,
+		"current": [{"location":    "8 mi ENE of Kirk",
+		"station_id":  "",
+		"value":       5.25,
+		"begdate":     "August 8, 2023",
+		"enddate":     "August 8, 2023",
+		"status":      "SA",
+		"note_seq":    "125"}],
+    "previous": []
+	},
+	{
+		"state":       "CO",
+		"element_seq": 27,
+		"location":    "8 mi NNW of Bethune",
+		"station_id":  "",
+		"value":       16.55,
+		"begdate":     "August 13, 2019",
+		"enddate":     "August 13, 2019",
+		"status":      "SA",
+		"note_seq":    ""
+	},
+  {
+		"state":       "CO",
+		"element_seq": 30,
+		"current": [{"location":    "Lamar",
+		"station_id":  "USW00003013",
+		"value":       970.4,
+		"begdate":     "March 13, 2019",
+		"enddate":     "March 13, 2019",
+		"status":      "NSA",
+		"note_seq":    112}],
+    "previous": []
+	}
+  ,
+  {
+    "state": "CT",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Burlington",
+        "station_id": "060973",
+        "value": 12.77,
+        "begdate": "August 19, 1955",
+        "enddate": "August 19, 1955",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "CT",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Ansonia 1NE",
+        "station_id": "060128",
+        "value": 36,
+        "begdate": "February 8, 2013",
+        "enddate": "February 9, 2013",
+        "status": "NSA",
+        "note_seq": 51
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "CT",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Norfolk 2SW",
+        "station_id": "065445",
+        "value": 55,
+        "begdate": "February 5, 1961",
+        "enddate": "February 5, 1961",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "CT",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Torrington",
+        "station_id": "068438",
+        "value": 106,
+        "begdate": "August 23, 1916",
+        "enddate": "August 23, 1916",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Danbury",
+        "station_id": "061762",
+        "value": 106,
+        "begdate": "July 15, 1995",
+        "enddate": "July 15, 1995",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "CT",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Falls Village",
+        "station_id": "062658",
+        "value": -32,
+        "begdate": "February 16, 1943",
+        "enddate": "February 16, 1943",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Coventry",
+        "station_id": "061689",
+        "value": -32,
+        "begdate": "January 22, 1961",
+        "enddate": "January 22, 1961",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "DE",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Harbeson",
+        "station_id": "DEOS Mesonet Station DWAR (NWSLI WARD1)",
+        "value": 12.48,
+        "begdate": "September 28, 2016",
+        "enddate": "September 29, 2016",
+        "status": "NSA"
+      }
+    ],
+    "previous": [
+      {
+        "location": "Dover",
+        "station_id": "N/A",
+        "value": 8.5,
+        "begdate": "July 13, 1975",
+        "enddate": "July 13, 1975",
+        "status": "NSA"
+      }
+    ]
+  },
+  {
+    "state": "DE",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Dover",
+        "station_id": "072730",
+        "value": 25,
+        "begdate": "February 19, 1979",
+        "enddate": "February 19, 1979",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+		"state":       "DE",
+		"element_seq": 18,
+		"current": [{"location":    "Bear 2SW",
+		"station_id":  "071200",
+		"value":       46.9,
+		"begdate":     "February 1, 2010",
+		"enddate":     "February 28, 2010",
+		"status":      "NSA",
+		"note_seq":    113}],
+    "previous": []
+	},
+	{
+		"state":       "DE",
+		"element_seq": 17,
+		"current": [{"location":    "Bear 2SW",
+		"station_id":  "071200",
+		"value":       72.7,
+		"begdate":     "July 1, 2009",
+		"enddate":     "June 30, 2010",
+		"status":      "NSA",
+		"note_seq":    114}],
+    "previous": []
+	},
+  {
+    "state": "DE",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Greenwood 2.9 SE",
+        "station_id": "CoCoRaHS DE-SS-7",
+        "value": 28,
+        "begdate": "February 7, 2010",
+        "enddate": "February 7, 2010",
+        "status": "NSA",
+        "note_seq": "115"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "DE",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Millsboro",
+        "station_id": "076020",
+        "value": 110,
+        "begdate": "July 21, 1930",
+        "enddate": "July 21, 1930",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "DE",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Millsboro",
+        "station_id": "076020",
+        "value": -17,
+        "begdate": "January 17, 1893",
+        "enddate": "January 17, 1893",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "FL",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Key West",
+        "station_id": "12836",
+        "value": 23.28,
+        "begdate": "November 11, 1980",
+        "enddate": "November 12, 1980",
+        "status": "NA",
+        "note_seq": 5
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "FL",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Milton Exp. Stn.",
+        "station_id": "085793",
+        "value": 4,
+        "begdate": "March 6, 1954",
+        "enddate": "March 6, 1954",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "FL",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Milton Exp. Stn",
+        "station_id": "085793",
+        "value": 4,
+        "begdate": "March 6, 1954",
+        "enddate": "March 6, 1954",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "FL",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Monticello",
+        "station_id": "085879",
+        "value": 109,
+        "begdate": "June 29, 1931",
+        "enddate": "June 29, 1931",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "FL",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Tallahassee",
+        "station_id": "088754",
+        "value": -2,
+        "begdate": "February 13, 1899",
+        "enddate": "February 13, 1899",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "GA",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Americus",
+        "station_id": "090253",
+        "value": 21.1,
+        "begdate": "July 6, 1994",
+        "enddate": "July 6, 1994",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "GA",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Cedartown 3NE",
+        "station_id": "091732",
+        "value": 19.3,
+        "begdate": "March 3, 1942",
+        "enddate": "March 3, 1942",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "GA",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Chatsworth 2",
+        "station_id": "091863",
+        "value": 18,
+        "begdate": "March 13, 1993",
+        "enddate": "March 13, 1993",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "GA",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Louisville",
+        "station_id": "095314",
+        "value": 112,
+        "begdate": "July 24, 1952",
+        "enddate": "July 24, 1952",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Greenville 2 NNW",
+        "station_id": "093915",
+        "value": 112,
+        "begdate": "August 20, 1983",
+        "enddate": "August 20, 1983",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "GA",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "CCC Fire Camp F-16 (nr. Beatum)",
+        "station_id": "",
+        "value": -17,
+        "begdate": "January 27, 1940",
+        "enddate": "January 27, 1940",
+        "status": "EA",
+        "note_seq": 6
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "HI",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Haleakali (Maui)",
+        "station_id": "510992",
+        "value": 6.5,
+        "begdate": "February 2, 1936",
+        "enddate": "February 2, 1936",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "HI",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Haleakali (Maui)",
+        "station_id": "510992",
+        "value": 5,
+        "begdate": "April 6, 1938",
+        "enddate": "April 6, 1938",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "HI",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Pahala (Hawaii)",
+        "station_id": "517421",
+        "value": 100,
+        "begdate": "April 27, 1931",
+        "enddate": "April 27, 1931",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "HI",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Mauna Kea Observatory (Hawaii)",
+        "station_id": "516183",
+        "value": 12,
+        "begdate": "May 17, 1979",
+        "enddate": "May 17, 1979",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "ID",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Rattlesnake Creek",
+        "station_id": "107545",
+        "value": 7.17,
+        "begdate": "November 23, 1909",
+        "enddate": "November 23, 1909",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "ID",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Anderson Dam",
+        "station_id": "100282",
+        "value": 31,
+        "begdate": "December 18, 1967",
+        "enddate": "December 18, 1967",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "ID",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Mullan Pass VOR/DME",
+        "station_id": "24154",
+        "value": 182,
+        "begdate": "February 20, 1954",
+        "enddate": "February 20, 1954",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Mullan Pass VOR/DME",
+        "station_id": "24154",
+        "value": 182,
+        "begdate": "February 22, 1954",
+        "enddate": "February 22, 1954",
+        "status": "N1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "ID",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Orofino",
+        "station_id": "106681",
+        "value": 118,
+        "begdate": "July 28, 1934",
+        "enddate": "July 28, 1934",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "ID",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Island Park Dam",
+        "station_id": "104598",
+        "value": -60,
+        "begdate": "January 18, 1943",
+        "enddate": "January 18, 1943",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "IL",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Aurora",
+        "station_id": "110338",
+        "value": 16.91,
+        "begdate": "July 18, 1996",
+        "enddate": "July 18, 1996",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "IL",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Astoria",
+        "station_id": "110291",
+        "value": 36,
+        "begdate": "February 28, 1900",
+        "enddate": "February 28, 1900",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "IL",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Astoria",
+        "station_id": "110291",
+        "value": 41,
+        "begdate": "February 28, 1900",
+        "enddate": "February 28, 1900",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Gebhard Woods St.Pk.",
+        "station_id": "113369",
+        "value": 41,
+        "begdate": "January 31, 1979",
+        "enddate": "January 31, 1979",
+        "status": "N1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "IL",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "East St. Louis",
+        "station_id": "112614",
+        "value": 117,
+        "begdate": "July 14, 1954",
+        "enddate": "July 14, 1954",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "IL",
+    "element_seq": 26,
+    "current": [
+      {
+        "location": "2 mi NNW of Minooka",
+        "station_id": "",
+        "value": 4.75,
+        "begdate": "June 10, 2015",
+        "enddate": "June 10, 2015",
+        "status": "SA",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "IN",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Princeton",
+        "station_id": "127125",
+        "value": 10.5,
+        "begdate": "August 6, 1905",
+        "enddate": "August 6, 1905",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "IN",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Salem",
+        "station_id": "127755",
+        "value": 33,
+        "begdate": "December 23, 2004",
+        "enddate": "December 23, 2004",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "IN",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Hammond",
+        "station_id": "123650",
+        "value": 47,
+        "begdate": "January 28, 1918",
+        "enddate": "January 28, 1918",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "IN",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Collegeville (South side of Renssalaer)",
+        "station_id": "121719",
+        "value": 116,
+        "begdate": "July 14, 1936",
+        "enddate": "July 14, 1936",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "IN",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "New Whiteland",
+        "station_id": "126304",
+        "value": -36,
+        "begdate": "January 19, 1994",
+        "enddate": "January 19, 1994",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "IA",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Lenox",
+        "station_id": "134746",
+        "value": 24,
+        "begdate": "April 20, 1918",
+        "enddate": "April 20, 1918",
+        "status": "N",
+        "note_seq": 9
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "IA",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Lake Park",
+        "station_id": "134561",
+        "value": 52,
+        "begdate": "February 28, 1969",
+        "enddate": "February 28, 1969",
+        "status": "E1",
+        "note_seq": 10
+      },
+      {
+        "location": "Lake Park",
+        "station_id": "134561",
+        "value": 52,
+        "begdate": "March 1, 1969",
+        "enddate": "March 1, 1969",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "IA",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Washta",
+        "station_id": "138693",
+        "value": -47,
+        "begdate": "January 12, 1912",
+        "enddate": "January 12, 1912",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Elkader",
+        "station_id": "132603",
+        "value": -47,
+        "begdate": "February 3, 1996",
+        "enddate": "February 3, 1996",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "KS",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Under Review",
+        "station_id": "",
+        "value": "",
+        "begdate": "",
+        "enddate": "",
+        "status": "",
+        "note_seq": 12
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "KS",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Pratt",
+        "station_id": "146549",
+        "value": 30,
+        "begdate": "March 28, 2009",
+        "enddate": "March 28, 2009",
+        "status": "NSA",
+        "note_seq": 13
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "KS",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Syracuse",
+        "station_id": "148038",
+        "value": 40,
+        "begdate": "December 31, 1918",
+        "enddate": "December 31, 1918",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "KS",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Fredonia",
+        "station_id": "142894",
+        "value": 121,
+        "begdate": "July 18, 1936",
+        "enddate": "July 18, 1936",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Alton",
+        "station_id": "140201",
+        "value": 121,
+        "begdate": "July 24, 1936",
+        "enddate": "July 24, 1936",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "KS",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Lebanon",
+        "station_id": "144598",
+        "value": -40,
+        "begdate": "February 13, 1905",
+        "enddate": "February 13, 1905",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "KS",
+    "element_seq": 24,
+    "current": [
+      {
+        "location": "Coffeyville",
+        "station_id": "",
+        "value": 1.65,
+        "begdate": "September 3, 1970",
+        "enddate": "September 3, 1970",
+        "status": "EA",
+        "note_seq": 14
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "KS",
+    "element_seq": 25,
+    "current": [
+      {
+        "location": "Coffeyville",
+        "station_id": "",
+        "value": 17.6,
+        "begdate": "September 3, 1970",
+        "enddate": "September 3, 1970",
+        "status": "EA",
+        "note_seq": 14
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "KS",
+    "element_seq": 26,
+    "current": [
+      {
+        "location": "Wichita",
+        "station_id": "",
+        "value": 7.75,
+        "begdate": "September 15, 2010",
+        "enddate": "September 15, 2010",
+        "status": "NSA",
+        "note_seq": 15
+      }
+    ],
+    "previous": []
+  },
+  {
+		"state":       "KS",
+		"element_seq": 10,
+		"current": [{"location":    "Farlington 0.8 NNE",
+		"station_id":  "CoCoRaHS KS-CR-10",
+		"value":       75.33,
+		"begdate":     "January 1, 2019",
+		"enddate":     "December 31, 2019",
+		"status":      "NS",
+		"note_seq":    ""}],
+    "previous": []
+	},  
+  {
+    "state": "KY",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Mayfield 6SW",
+        "station_id": "KY Mesonet - PRYB",
+        "value": 11.28,
+        "begdate": "July 18, 2023",
+        "enddate": "July 19, 2023",
+        "status": "NSA",
+        "note_seq": 126
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "KY",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Simers",
+        "station_id": "157396",
+        "value": 26,
+        "begdate": "March 3, 1942",
+        "enddate": "March 3, 1942",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "KY",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "La Grange",
+        "station_id": "154595",
+        "value": 31,
+        "begdate": "January 20, 1978",
+        "enddate": "January 20, 1978",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "KY",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Greensburg",
+        "station_id": "153430",
+        "value": 114,
+        "begdate": "July 28, 1930",
+        "enddate": "July 28, 1930",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "KY",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Shelbyville",
+        "station_id": "157324",
+        "value": -37,
+        "begdate": "January 19, 1994",
+        "enddate": "January 19, 1994",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+		"state":       "KY",
+		"element_seq": 28,
+		"current": [{"location":    "Princeton 2 SE",
+		"station_id":  "Kentucky Mesonet",
+		"value":       120.1,
+		"begdate":     "December 10, 2021",
+		"enddate":     "December 10, 2021",
+		"status":      "SA",
+		"note_seq":    "124"}],
+    "previous": []
+	},
+  {
+    "state": "LA",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Hackberry",
+        "station_id": "163979",
+        "value": 22,
+        "begdate": "August 28, 1962",
+        "enddate": "August 29, 1962",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "LA",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Colfax",
+        "station_id": "161941",
+        "value": 13,
+        "begdate": "February 13, 1960",
+        "enddate": "February 13, 1960",
+        "status": "NA",
+        "note_seq": 16
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "LA",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Rayne",
+        "station_id": "167678",
+        "value": 24,
+        "begdate": "February 15, 1895",
+        "enddate": "February 15, 1895",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "LA",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Plain Dealing 4W",
+        "station_id": "167344",
+        "value": 114,
+        "begdate": "August 10, 1936",
+        "enddate": "August 10, 1936",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "LA",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Minden",
+        "station_id": "166244",
+        "value": -16,
+        "begdate": "February 13, 1899",
+        "enddate": "February 13, 1899",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "ME",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Portland",
+        "station_id": "14764",
+        "value": 13.32,
+        "begdate": "October 20, 1996",
+        "enddate": "October 21, 1996",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "ME",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Orono",
+        "station_id": "176430",
+        "value": 40,
+        "begdate": "December 30, 1962",
+        "enddate": "December 30, 1962",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "ME",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Farmington",
+        "station_id": "172765",
+        "value": 84,
+        "begdate": "February 28, 1969",
+        "enddate": "February 28, 1969",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "ME",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "North Bridgton",
+        "station_id": "175875",
+        "value": 105,
+        "begdate": "July 4, 1911",
+        "enddate": "July 4, 1911",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "North Bridgton",
+        "station_id": "175875",
+        "value": 105,
+        "begdate": "July 10, 1911",
+        "enddate": "July 10, 1911",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "ME",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Big Black River (nr. Saint Pamphile, PQ)",
+        "station_id": "USGS BBRM1",
+        "value": -50,
+        "begdate": "January 16, 2009",
+        "enddate": "January 16, 2009",
+        "status": "NS",
+        "note_seq": 17
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MD",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Jewell (nr. Friendship)",
+        "station_id": "184650",
+        "value": 14.75,
+        "begdate": "July 26, 1897",
+        "enddate": "July 27, 1897",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MD",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Clear Spring 1ENE",
+        "station_id": "181890",
+        "value": 31,
+        "begdate": "March 29, 1942",
+        "enddate": "March 29, 1942",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MD",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Frostburg 2",
+        "station_id": "183415",
+        "value": 54,
+        "begdate": "March 15, 1993",
+        "enddate": "March 15, 1993",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MD",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Boettcherville",
+        "station_id": "180960",
+        "value": 109,
+        "begdate": "July 3, 1898",
+        "enddate": "July 3, 1898",
+        "status": "E3",
+        "note_seq": ""
+      },
+      {
+        "location": "Keedysville",
+        "station_id": "184780",
+        "value": 109,
+        "begdate": "August 6, 1918",
+        "enddate": "August 6, 1918",
+        "status": "E3",
+        "note_seq": ""
+      },
+      {
+        "location": "Cumberland",
+        "station_id": "182280",
+        "value": 109,
+        "begdate": "August 6, 1918",
+        "enddate": "August 6, 1918",
+        "status": "E3",
+        "note_seq": ""
+      },
+      {
+        "location": "Cumberland",
+        "station_id": "182280",
+        "value": 109,
+        "begdate": "August 7, 1918",
+        "enddate": "August 7, 1918",
+        "status": "E3",
+        "note_seq": ""
+      },
+      {
+        "location": "Cumberland",
+        "station_id": "182280",
+        "value": 109,
+        "begdate": "July 10, 1936",
+        "enddate": "July 10, 1936",
+        "status": "E3",
+        "note_seq": ""
+      },
+      {
+        "location": "Frederick",
+        "station_id": "183348",
+        "value": 109,
+        "begdate": "July 10, 1936",
+        "enddate": "July 10, 1936",
+        "status": "E3",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MD",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Oakland",
+        "station_id": "186620",
+        "value": -40,
+        "begdate": "January 13, 1912",
+        "enddate": "January 13, 1912",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+		"state":       "MD",
+		"element_seq": 10,
+		"current": [{"location":    "Catonsville 1.2 NW",
+		"station_id":  "CoCoRaHS MD-BL-39",
+		"value":       84.56,
+		"begdate":     "January 1, 2018",
+		"enddate":     "December 31, 2018",
+		"status":      "NS",
+		"note_seq":    105}],
+    "previous": []
+	},
+  {
+    "state": "MA",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Westfield",
+        "station_id": "199191",
+        "value": 18.15,
+        "begdate": "August 18, 1955",
+        "enddate": "August 19, 1955",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MA",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Natick",
+        "station_id": "195175",
+        "value": 29,
+        "begdate": "April 1, 1997",
+        "enddate": "April 1, 1997",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MA",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Great Barrington Airport",
+        "station_id": "193208",
+        "value": 62,
+        "begdate": "January 13, 1996",
+        "enddate": "January 13, 1996",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MA",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "New Bedford",
+        "station_id": "195246",
+        "value": 107,
+        "begdate": "August 2, 1975",
+        "enddate": "August 2, 1975",
+        "status": "E2",
+        "note_seq": ""
+      },
+      {
+        "location": "Chester",
+        "station_id": "191430",
+        "value": 107,
+        "begdate": "August 2, 1975",
+        "enddate": "August 2, 1975",
+        "status": "E2",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MA",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Taunton",
+        "station_id": "198367",
+        "value": -35,
+        "begdate": "January 5, 1904",
+        "enddate": "January 5, 1904",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Coldbrook",
+        "station_id": "191589",
+        "value": -35,
+        "begdate": "February 15, 1943",
+        "enddate": "February 15, 1943",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Chester",
+        "station_id": "191430",
+        "value": -35,
+        "begdate": "January 12, 1981",
+        "enddate": "January 12, 1981",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MI",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "6E Fountain",
+        "station_id": "N/A",
+        "value": 12.92,
+        "begdate": "July 20, 2019",
+        "enddate": "July 20, 2019",
+        "status": "NSA",
+        "note_seq": "110"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MI",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Herman",
+        "station_id": "203744",
+        "value": 32,
+        "begdate": "December 2, 1985",
+        "enddate": "December 2, 1985",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MI",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Eagle Harbor",
+        "station_id": "202332",
+        "value": 117,
+        "begdate": "January 27, 1948",
+        "enddate": "January 27, 1948",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Eagle Harbor",
+        "station_id": "202332",
+        "value": 117,
+        "begdate": "January 28, 1948",
+        "enddate": "January 28, 1948",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Eagle Harbor",
+        "station_id": "202332",
+        "value": 117,
+        "begdate": "January 29, 1948",
+        "enddate": "January 29, 1948",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Eagle Harbor",
+        "station_id": "202332",
+        "value": 117,
+        "begdate": "January 30, 1948",
+        "enddate": "January 30, 1948",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Eagle Harbor",
+        "station_id": "202332",
+        "value": 117,
+        "begdate": "January 31, 1948",
+        "enddate": "January 31, 1948",
+        "status": "N1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MI",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Mio",
+        "station_id": "205531",
+        "value": 112,
+        "begdate": "July 13, 1936",
+        "enddate": "July 13, 1936",
+        "status": "E2",
+        "note_seq": ""
+      },
+      {
+        "location": "Stanwood",
+        "station_id": "207834",
+        "value": 112,
+        "begdate": "July 13, 1936",
+        "enddate": "July 13, 1936",
+        "status": "E2",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MI",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Vanderbilt",
+        "station_id": "208417",
+        "value": -51,
+        "begdate": "February 9, 1934",
+        "enddate": "February 9, 1934",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MN",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Hokah 1S",
+        "station_id": "213808",
+        "value": 15.1,
+        "begdate": "August 19, 2007",
+        "enddate": "August 19, 2007",
+        "status": "NS",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MN",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Wolf Ridge ELC",
+        "station_id": "219134",
+        "value": 36,
+        "begdate": "January 7, 1994",
+        "enddate": "January 7, 1994",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MN",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Meadowlands 1NNW",
+        "station_id": "215298",
+        "value": 88,
+        "begdate": "February 15, 1969",
+        "enddate": "February 15, 1969",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Meadowlands 1NNW",
+        "station_id": "215298",
+        "value": 88,
+        "begdate": "February 16, 1969",
+        "enddate": "February 16, 1969",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Meadowlands 1NNW",
+        "station_id": "215298",
+        "value": 88,
+        "begdate": "February 17, 1969",
+        "enddate": "February 17, 1969",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Meadowlands 1NNW",
+        "station_id": "215298",
+        "value": 88,
+        "begdate": "February 18, 1969",
+        "enddate": "February 18, 1969",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Meadowlands 1NNW",
+        "station_id": "215298",
+        "value": 88,
+        "begdate": "February 19, 1969",
+        "enddate": "February 19, 1969",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Meadowlands 1NNW",
+        "station_id": "215298",
+        "value": 88,
+        "begdate": "February 20, 1969",
+        "enddate": "February 20, 1969",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Meadowlands 1NNW",
+        "station_id": "215298",
+        "value": 88,
+        "begdate": "February 21, 1969",
+        "enddate": "February 21, 1969",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MN",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Beardsley",
+        "station_id": "210541",
+        "value": 115,
+        "begdate": "July 29, 1917",
+        "enddate": "July 29, 1917",
+        "status": "N1A",
+        "note_seq": 18
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MN",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Tower",
+        "station_id": "218311",
+        "value": -60,
+        "begdate": "February 2, 1996",
+        "enddate": "February 2, 1996",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MS",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Columbus",
+        "station_id": "221870",
+        "value": 15.68,
+        "begdate": "July 9, 1968",
+        "enddate": "July 9, 1968",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MS",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Mt. Pleasant",
+        "station_id": "226084",
+        "value": 18,
+        "begdate": "December 23, 1963",
+        "enddate": "December 23, 1963",
+        "status": "N2",
+        "note_seq": ""
+      },
+      {
+        "location": "Mt. Tunica 2",
+        "station_id": "228998",
+        "value": 18,
+        "begdate": "December 23, 1963",
+        "enddate": "December 23, 1963",
+        "status": "N2",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MS",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Mount Pleasant",
+        "station_id": "226084",
+        "value": 18,
+        "begdate": "December 23, 1963",
+        "enddate": "December 23, 1963",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MS",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Holly Springs 2N",
+        "station_id": "224168",
+        "value": 115,
+        "begdate": "July 29, 1930",
+        "enddate": "July 29, 1930",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MS",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Corinth",
+        "station_id": "221962",
+        "value": -19,
+        "begdate": "January 30, 1966",
+        "enddate": "January 30, 1966",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MO",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Edgerton",
+        "station_id": "232474",
+        "value": 18.18,
+        "begdate": "July 20, 1965",
+        "enddate": "July 20, 1965",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MO",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Cape Girardeau",
+        "station_id": "03935",
+        "value": 24,
+        "begdate": "February 25, 1979",
+        "enddate": "February 25, 1979",
+        "status": "N3",
+        "note_seq": ""
+      },
+      {
+        "location": "Jackson",
+        "station_id": "234226",
+        "value": 24,
+        "begdate": "February 25, 1979",
+        "enddate": "February 25, 1979",
+        "status": "N3",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MO",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Union",
+        "station_id": "238515",
+        "value": 36,
+        "begdate": "March 19, 1960",
+        "enddate": "March 19, 1960",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Union",
+        "station_id": "238515",
+        "value": 36,
+        "begdate": "March 20, 1960",
+        "enddate": "March 20, 1960",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MO",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Union",
+        "station_id": "238515",
+        "value": 118,
+        "begdate": "July 14, 1954",
+        "enddate": "July 14, 1954",
+        "status": "E3",
+        "note_seq": ""
+      },
+      {
+        "location": "Warsaw",
+        "station_id": "238733",
+        "value": 118,
+        "begdate": "July 14, 1954",
+        "enddate": "July 14, 1954",
+        "status": "E3",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MO",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Warsaw",
+        "station_id": "238733",
+        "value": -40,
+        "begdate": "February 13, 1905",
+        "enddate": "February 13, 1905",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MT",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Circle (Springbrook)",
+        "station_id": "247796",
+        "value": 11.5,
+        "begdate": "June 20, 1921",
+        "enddate": "June 20, 1921",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MT",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Shonkin 7S 14SE",
+        "station_id": "247540",
+        "value": 48,
+        "begdate": "May 29, 1982",
+        "enddate": "May 29, 1982",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Millegan 14SE",
+        "station_id": "245712",
+        "value": 48,
+        "begdate": "December 27, 2003",
+        "enddate": "December 27, 2003",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MT",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Summit",
+        "station_id": "247978",
+        "value": 147,
+        "begdate": "February 18, 1975",
+        "enddate": "February 18, 1975",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MT",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Glendive",
+        "station_id": "243581",
+        "value": 117,
+        "begdate": "July 20, 1893",
+        "enddate": "July 20, 1893",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Medicine Lake",
+        "station_id": "245572",
+        "value": 117,
+        "begdate": "July 5, 1937",
+        "enddate": "July 5, 1937",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "MT",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Rogers Pass",
+        "station_id": "247156",
+        "value": -70,
+        "begdate": "January 20, 1954",
+        "enddate": "January 20, 1954",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NE",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "York",
+        "station_id": "259510",
+        "value": 13.15,
+        "begdate": "July 8, 1950",
+        "enddate": "July 9, 1950",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NE",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Dalton",
+        "station_id": "252145",
+        "value": 27,
+        "begdate": "December 21, 2006",
+        "enddate": "December 21, 2006",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NE",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Fremont",
+        "station_id": "253050",
+        "value": 44,
+        "begdate": "February 16, 1936",
+        "enddate": "February 16, 1936",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NE",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Geneva",
+        "station_id": "253175",
+        "value": 118,
+        "begdate": "July 15, 1934",
+        "enddate": "July 15, 1934",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Hartington",
+        "station_id": "253630",
+        "value": 118,
+        "begdate": "July 17, 1936",
+        "enddate": "July 17, 1936",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Minden",
+        "station_id": "255565",
+        "value": 118,
+        "begdate": "July 24, 1936",
+        "enddate": "July 24, 1936",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NE",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Bridgeport",
+        "station_id": "251145",
+        "value": -47,
+        "begdate": "February 12, 1899",
+        "enddate": "February 12, 1899",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Oshkosh",
+        "station_id": "256385",
+        "value": -47,
+        "begdate": "December 22, 1989",
+        "enddate": "December 22, 1989",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NE",
+    "element_seq": 25,
+    "current": [
+      {
+        "location": "Aurora",
+        "station_id": "",
+        "value": 18.75,
+        "begdate": "June 22, 2003",
+        "enddate": "June 22, 2003",
+        "status": "EA",
+        "note_seq": 19
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NE",
+    "element_seq": 26,
+    "current": [
+      {
+        "location": "Aurora",
+        "station_id": "",
+        "value": 7,
+        "begdate": "June 22, 2003",
+        "enddate": "June 22, 2003",
+        "status": "EA",
+        "note_seq": 19
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NE",
+    "element_seq": 24,
+    "current": [
+      {
+        "location": "Aurora",
+        "station_id": "",
+        "value": 1.34,
+        "begdate": "June 22, 2003",
+        "enddate": "June 22, 2003",
+        "status": "EA",
+        "note_seq": 19
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NV",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Mount Charleston",
+        "station_id": "265400",
+        "value": 7.78,
+        "begdate": "October 20, 2004",
+        "enddate": "October 20, 2004",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NV",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Dagget Pass",
+        "station_id": "262119",
+        "value": 36,
+        "begdate": "December 21, 1996",
+        "enddate": "December 21, 1996",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NV",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Spooners Station",
+        "station_id": "267710",
+        "value": 271,
+        "begdate": "March 12, 1911",
+        "enddate": "March 12, 1911",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Spooners Station",
+        "station_id": "267710",
+        "value": 271,
+        "begdate": "March 13, 1911",
+        "enddate": "March 13, 1911",
+        "status": "N1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NV",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Laughlin",
+        "station_id": "264480",
+        "value": 125,
+        "begdate": "June 29, 1994",
+        "enddate": "June 29, 1994",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NV",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "San Jacinto",
+        "station_id": "267284",
+        "value": -50,
+        "begdate": "January 8, 1937",
+        "enddate": "January 8, 1937",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NH",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Mount Washington",
+        "station_id": "14755",
+        "value": 11.07,
+        "begdate": "October 20, 1996",
+        "enddate": "October 21, 1996",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NH",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Mount Washington",
+        "station_id": "14755",
+        "value": 49.3,
+        "begdate": "February 25, 1969",
+        "enddate": "February 25, 1969",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NH",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Pinkham Notch",
+        "station_id": "276818",
+        "value": 164,
+        "begdate": "February 27, 1969",
+        "enddate": "February 27, 1969",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NH",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Nashua",
+        "station_id": "275712",
+        "value": 106,
+        "begdate": "July 4, 1911",
+        "enddate": "July 4, 1911",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NH",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Mount Washington",
+        "station_id": "14755",
+        "value": -50,
+        "begdate": "January 22, 1885",
+        "enddate": "January 22, 1885",
+        "status": "NA",
+        "note_seq": 20
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NJ",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Tuckerton",
+        "station_id": "288899",
+        "value": 14.81,
+        "begdate": "August 19, 1939",
+        "enddate": "August 20, 1939",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NJ",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Long Branch",
+        "station_id": "284987",
+        "value": 29.7,
+        "begdate": "December 26, 1947",
+        "enddate": "December 27, 1947",
+        "status": "NSA",
+        "note_seq": "121"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NJ",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Canistear Reservoir",
+        "station_id": "281327",
+        "value": 52,
+        "begdate": "February 5, 1961",
+        "enddate": "February 5, 1961",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NJ",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Runyon",
+        "station_id": "287825",
+        "value": 110,
+        "begdate": "July 10, 1936",
+        "enddate": "July 10, 1936",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NJ",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "River Vale",
+        "station_id": "287620",
+        "value": -34,
+        "begdate": "January 5, 1904",
+        "enddate": "January 5, 1904",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NJ",
+    "element_seq": 10,
+    "current": [
+      {
+        "location": "WEST MILFORD TWP 3.2 NE",
+        "station_id": "CoCoRaHS NJ-PS-16",
+        "value": 90.65,
+        "begdate": "January 1, 2011",
+        "enddate": "December 31, 2011",
+        "status": "NA",
+        "note_seq": 95
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NM",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Lake Maloya",
+        "station_id": "294742",
+        "value": 11.28,
+        "begdate": "May 18, 1955",
+        "enddate": "May 19, 1955",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NM",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Kelly Ranch",
+        "station_id": "294461",
+        "value": 41,
+        "begdate": "February 3, 1964",
+        "enddate": "February 3, 1964",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NM",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Lee's Ranch",
+        "station_id": "294903",
+        "value": 96,
+        "begdate": "March 15, 1941",
+        "enddate": "March 15, 1941",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NM",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Waste Isolation Pilot Plant (nr. Loving)",
+        "station_id": "299569",
+        "value": 122,
+        "begdate": "June 27, 1994",
+        "enddate": "June 27, 1994",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NM",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Gavilan",
+        "station_id": "293505",
+        "value": -50,
+        "begdate": "February 1, 1951",
+        "enddate": "February 1, 1951",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NY",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Camden",
+        "station_id": "301110",
+        "value": 50,
+        "begdate": "February 1, 1966",
+        "enddate": "February 1, 1966",
+        "status": "NA",
+        "note_seq": 22
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NY",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Whiteface Mountain",
+        "station_id": "309383",
+        "value": 119,
+        "begdate": "April 20, 1943",
+        "enddate": "April 20, 1943",
+        "status": "N",
+        "note_seq": "109"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NY",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Troy",
+        "station_id": "308597",
+        "value": 108,
+        "begdate": "July 22, 1926",
+        "enddate": "July 22, 1926",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NY",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Old Forge",
+        "station_id": "306184",
+        "value": -52,
+        "begdate": "February 18, 1979",
+        "enddate": "February 18, 1979",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NC",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Altapass",
+        "station_id": "310160",
+        "value": 22.22,
+        "begdate": "July 15, 1916",
+        "enddate": "July 16, 1916",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NC",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Mt. Mitchell",
+        "station_id": "315923",
+        "value": 36,
+        "begdate": "March 13, 1993",
+        "enddate": "March 13, 1993",
+        "status": "N",
+        "note_seq": 92
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NC",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Mount Mitchell",
+        "station_id": "315921",
+        "value": 50,
+        "begdate": "March 3, 1942",
+        "enddate": "March 3, 1942",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Mount Mitchell",
+        "station_id": "315921",
+        "value": 50,
+        "begdate": "March 4, 1942",
+        "enddate": "March 4, 1942",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Mount Mitchell",
+        "station_id": "315921",
+        "value": 50,
+        "begdate": "March 5, 1942",
+        "enddate": "March 5, 1942",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Mount Mitchell",
+        "station_id": "315921",
+        "value": 50,
+        "begdate": "March 6, 1942",
+        "enddate": "March 6, 1942",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Mount Mitchell",
+        "station_id": "315923",
+        "value": 50,
+        "begdate": "March 14, 1993",
+        "enddate": "March 14, 1993",
+        "status": "N1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NC",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Fayetteville",
+        "station_id": "93740",
+        "value": 110,
+        "begdate": "August 21, 1983",
+        "enddate": "August 21, 1983",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "NC",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Mount Mitchell",
+        "station_id": "315923",
+        "value": -34,
+        "begdate": "January 21, 1985",
+        "enddate": "January 21, 1985",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+		"state":       "NC",
+		"element_seq": 10,
+		"current": [{"location":    "Mt. Mitchell",
+		"station_id":  "315923",
+		"value":       139.94,
+		"begdate":     "January 1, 2018",
+		"enddate":     "December 31, 2018",
+		"status":      "NS",
+		"note_seq":    107}],
+    "previous": []
+	},
+  {
+    "state": "ND",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Litchville",
+        "station_id": "325230",
+        "value": 8.1,
+        "begdate": "June 29, 1975",
+        "enddate": "June 29, 1975",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "ND",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Minot Airport",
+        "station_id": "24013",
+        "value": 27,
+        "begdate": "April 27, 1984",
+        "enddate": "April 27, 1984",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "ND",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Berlin",
+        "station_id": "320720",
+        "value": 65,
+        "begdate": "March 11, 1897",
+        "enddate": "March 11, 1897",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Berlin",
+        "station_id": "320720",
+        "value": 65,
+        "begdate": "March 12, 1897",
+        "enddate": "March 12, 1897",
+        "status": "N1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "ND",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Steele",
+        "station_id": "328366",
+        "value": 121,
+        "begdate": "July 6, 1936",
+        "enddate": "July 6, 1936",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "ND",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Parshall",
+        "station_id": "326867",
+        "value": -60,
+        "begdate": "February 15, 1936",
+        "enddate": "February 15, 1936",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OH",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Lockington Dam (nr. Sidney, Shelby Co. OH)",
+        "station_id": "",
+        "value": 10.75,
+        "begdate": "August 7, 1995",
+        "enddate": "August 8, 1995",
+        "status": "EA",
+        "note_seq": 23
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OH",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Warren 3S",
+        "station_id": "338769",
+        "value": 30,
+        "begdate": "April 20, 1901",
+        "enddate": "April 20, 1901",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OH",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Chardon",
+        "station_id": "331458",
+        "value": 47,
+        "begdate": "November 14, 1996",
+        "enddate": "November 14, 1996",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OH",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Gallipolis (near)",
+        "station_id": "333029",
+        "value": 113,
+        "begdate": "July 21, 1934",
+        "enddate": "July 21, 1934",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OH",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Milligan",
+        "station_id": "335310",
+        "value": -39,
+        "begdate": "February 10, 1899",
+        "enddate": "February 10, 1899",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OK",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Enid",
+        "station_id": "342912",
+        "value": 15.68,
+        "begdate": "October 11, 1973",
+        "enddate": "October 11, 1973",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OK",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Spavinaw",
+        "station_id": "348380",
+        "value": 27,
+        "begdate": "February 9, 2011",
+        "enddate": "February 10, 2011",
+        "status": "NSA",
+        "note_seq": 24
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OK",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Buffalo 2SSW",
+        "station_id": "341243",
+        "value": 36,
+        "begdate": "February 22, 1971",
+        "enddate": "February 22, 1971",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OK",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Alva",
+        "station_id": "340193",
+        "value": 120,
+        "begdate": "July 18, 1936",
+        "enddate": "July 18, 1936",
+        "status": "E1A",
+        "note_seq": 25
+      },
+      {
+        "location": "Altus",
+        "station_id": "340179",
+        "value": 120,
+        "begdate": "July 19, 1936",
+        "enddate": "July 19, 1936",
+        "status": "E1A",
+        "note_seq": ""
+      },
+      {
+        "location": "Poteau",
+        "station_id": "347246",
+        "value": 120,
+        "begdate": "August 10, 1936",
+        "enddate": "August 10, 1936",
+        "status": "E1A",
+        "note_seq": ""
+      },
+      {
+        "location": "Altus",
+        "station_id": "340179",
+        "value": 120,
+        "begdate": "August 12, 1936",
+        "enddate": "August 12, 1936",
+        "status": "E1A",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OK",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Nowata",
+        "station_id": "NOWA (OK Mesonet)",
+        "value": -31,
+        "begdate": "February 10, 2011",
+        "enddate": "February 10, 2011",
+        "status": "NSA",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OK",
+    "element_seq": 26,
+    "current": [
+      {
+        "location": "2 mi. N of Gotebo",
+        "station_id": "",
+        "value": 6,
+        "begdate": "May 23, 2011",
+        "enddate": "May 23, 2011",
+        "status": "NSA",
+        "note_seq": 26
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OK",
+    "element_seq": 28,
+    "current": [
+      {
+        "location": "El Reno",
+        "station_id": "ELRE (OK Mesonet)",
+        "value": 150.8,
+        "begdate": "May 24, 2011",
+        "enddate": "May 24, 2011",
+        "status": "NSA",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OR",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Nehalem 9NE",
+        "station_id": "355971",
+        "value": 11.77,
+        "begdate": "November 6, 2006",
+        "enddate": "November 6, 2006",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OR",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Hood River ES",
+        "station_id": "354003",
+        "value": 47,
+        "begdate": "January 9, 1980",
+        "enddate": "January 9, 1980",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OR",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Crater Lake NP HQ",
+        "station_id": "351946",
+        "value": 252,
+        "begdate": "April 3, 1983",
+        "enddate": "April 3, 1983",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OR",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Pendleton",
+        "station_id": "356541",
+        "value": 119,
+        "begdate": "August 10, 1898",
+        "enddate": "August 10, 1898",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Pelton Dam",
+        "station_id": "356532",
+        "value": 119,
+        "begdate": "June 29, 2021",
+        "enddate": "June 29, 2021",
+        "status": "SA",
+        "note_seq": "122"
+      },
+      {
+        "location": "Moody Farms Agrimet",
+        "station_id": "USBR Mesonet",
+        "value": 119,
+        "begdate": "June 29, 2021",
+        "enddate": "June 29, 2021",
+        "status": "SA",
+        "note_seq": "122"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "OR",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Ukiah",
+        "station_id": "358726",
+        "value": -54,
+        "begdate": "February 9, 1933",
+        "enddate": "February 9, 1933",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Seneca",
+        "station_id": "357675",
+        "value": -54,
+        "begdate": "February 10, 1933",
+        "enddate": "February 10, 1933",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "PA",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "York 3SSW Pump Stn",
+        "station_id": "369933",
+        "value": 13.5,
+        "begdate": "June 22, 1972",
+        "enddate": "June 22, 1972",
+        "status": "NA",
+        "note_seq": 27
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "PA",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Gouldsboro",
+        "station_id": "363394",
+        "value": 60,
+        "begdate": "March 22, 1958",
+        "enddate": "March 22, 1958",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Gouldsboro",
+        "station_id": "363394",
+        "value": 60,
+        "begdate": "March 23, 1958",
+        "enddate": "March 23, 1958",
+        "status": "N1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "PA",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Phoenixville",
+        "station_id": "366927",
+        "value": 111,
+        "begdate": "July 9, 1936",
+        "enddate": "July 9, 1936",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Phoenixville",
+        "station_id": "366927",
+        "value": 111,
+        "begdate": "July 10, 1936",
+        "enddate": "July 10, 1936",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "PA",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Smethport",
+        "station_id": "368190",
+        "value": -42,
+        "begdate": "January 5, 1904",
+        "enddate": "January 5, 1904",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+		"state":       "PA",
+		"element_seq": 18,
+		"current": [{"location":    "Laurel Summit",
+		"station_id":  "364839",
+		"value":       117.8,
+		"begdate":     "February 1, 2010",
+		"enddate":     "February 28, 2010",
+		"status":      "NSA",
+		"note_seq":    99}],
+    "previous": []
+	},
+  {
+		"state":       "PA",
+		"element_seq": 16,
+		"current": [{"location":    "Lakeville 1NNE",
+		"station_id":  "364733",
+		"value":       41,
+		"begdate":     "February 15, 1958",
+		"enddate":     "February 16, 1958",
+		"status":      "NSA",
+		"note_seq":    117}],
+    "previous": []
+	},
+  {
+    "state": "PR",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Toro Negro Forest",
+        "station_id": "669432",
+        "value": 23.75,
+        "begdate": "October 7, 1985",
+        "enddate": "October 7, 1985",
+        "status": "NA",
+        "note_seq": 28
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "PR",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "N/A",
+        "station_id": "",
+        "value": "",
+        "begdate": "",
+        "enddate": "",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "PR",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "N/A",
+        "station_id": "",
+        "value": "",
+        "begdate": "",
+        "enddate": "",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "PR",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Mona Island",
+        "station_id": "666258",
+        "value": 104,
+        "begdate": "July 2, 1996",
+        "enddate": "July 2, 1996",
+        "status": "NA",
+        "note_seq": 29
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "PR",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Aibonito",
+        "station_id": "660158",
+        "value": 40,
+        "begdate": "March 9, 1911",
+        "enddate": "March 9, 1911",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "San Sebastian",
+        "station_id": "668881",
+        "value": 40,
+        "begdate": "January 24, 1966",
+        "enddate": "January 24, 1966",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Rincon",
+        "station_id": "668126",
+        "value": 40,
+        "begdate": "March 27, 1985",
+        "enddate": "March 27, 1985",
+        "status": "N1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "RI",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Westerly",
+        "station_id": "378911",
+        "value": 12.13,
+        "begdate": "September 16, 1932",
+        "enddate": "September 17, 1932",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "RI",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Woonsocket",
+        "station_id": "379423",
+        "value": 30,
+        "begdate": "February 7, 1978",
+        "enddate": "February 7, 1978",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "RI",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "North Foster 1E",
+        "station_id": "375270",
+        "value": 42,
+        "begdate": "February 7, 1978",
+        "enddate": "February 7, 1978",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "RI",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Providence",
+        "station_id": "14765",
+        "value": 104,
+        "begdate": "August 2, 1975",
+        "enddate": "August 2, 1975",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "RI",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Wood River Junction",
+        "station_id": "379327",
+        "value": -28,
+        "begdate": "January 11, 1942",
+        "enddate": "January 11, 1942",
+        "status": "NA",
+        "note_seq": 30
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "SC",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Myrtle Beach",
+        "station_id": "386153",
+        "value": 14.8,
+        "begdate": "September 16, 1999",
+        "enddate": "September 16, 1999",
+        "status": "NA",
+        "note_seq": 31
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "SC",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Rimini 2SSW",
+        "station_id": "387313",
+        "value": 24,
+        "begdate": "February 9, 1973",
+        "enddate": "February 10, 1973",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "SC",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Ceasars Head",
+        "station_id": "381256",
+        "value": 29,
+        "begdate": "February 18, 1969",
+        "enddate": "February 18, 1969",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "SC",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Columbia Univ of South Carolina",
+        "station_id": "381944",
+        "value": 113,
+        "begdate": "June 29, 2012",
+        "enddate": "June 29, 2012",
+        "status": "NS",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "SC",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Caesar's Head",
+        "station_id": "381256",
+        "value": -19,
+        "begdate": "January 21, 1985",
+        "enddate": "January 21, 1985",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+		"state":       "SC",
+		"element_seq": 10,
+		"current": [{"location":    "Jocassee 8 NW",
+		"station_id":  "384581",
+		"value":       123.45,
+		"begdate":     "January 1, 2018",
+		"enddate":     "December 31, 2018",
+		"status":      "NSA",
+		"note_seq":    104}],
+    "previous": []
+	},
+  {
+    "state": "SD",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Groton",
+        "station_id": "393456",
+        "value": 8.74,
+        "begdate": "May 6, 2007",
+        "enddate": "May 6, 2007",
+        "status": "NSA",
+        "note_seq": 32
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "SD",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Lead",
+        "station_id": "394834",
+        "value": 52,
+        "begdate": "March 14, 1973",
+        "enddate": "March 14, 1973",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "SD",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Lead",
+        "station_id": "394834",
+        "value": 73,
+        "begdate": "March 1, 1998",
+        "enddate": "March 1, 1998",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "SD",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Gann Valley",
+        "station_id": "393217",
+        "value": 120,
+        "begdate": "July 5, 1936",
+        "enddate": "July 5, 1936",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Fort Pierre",
+        "station_id": "393076",
+        "value": 120,
+        "begdate": "July 15, 2006",
+        "enddate": "July 15, 2006",
+        "status": "N1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "SD",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "McIntosh",
+        "station_id": "395381",
+        "value": -58,
+        "begdate": "February 17, 1936",
+        "enddate": "February 17, 1936",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "SD",
+    "element_seq": 24,
+    "current": [
+      {
+        "location": "Vivian",
+        "station_id": "",
+        "value": 1.938,
+        "begdate": "July 23, 2010",
+        "enddate": "July 23, 2010",
+        "status": "A",
+        "note_seq": 33
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "SD",
+    "element_seq": 26,
+    "current": [
+      {
+        "location": "Vivian",
+        "station_id": "",
+        "value": 8,
+        "begdate": "July 23, 2010",
+        "enddate": "July 23, 2010",
+        "status": "A",
+        "note_seq": 33
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "SD",
+    "element_seq": 25,
+    "current": [
+      {
+        "location": "Vivian",
+        "station_id": "",
+        "value": 18.625,
+        "begdate": "July 23, 2010",
+        "enddate": "July 23, 2010",
+        "status": "A",
+        "note_seq": 33
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "TN",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Mount Leconte",
+        "station_id": "406328",
+        "value": 30,
+        "begdate": "March 14, 1993",
+        "enddate": "March 14, 1993",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "TN",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Mount Leconte",
+        "station_id": "406328",
+        "value": 63,
+        "begdate": "March 14, 1993",
+        "enddate": "March 14, 1993",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Mount Leconte",
+        "station_id": "406328",
+        "value": 63,
+        "begdate": "March 15, 1993",
+        "enddate": "March 15, 1993",
+        "status": "N1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "TN",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Perryville",
+        "station_id": "407099",
+        "value": 113,
+        "begdate": "July 29, 1930",
+        "enddate": "July 29, 1930",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Perryville",
+        "station_id": "407099",
+        "value": 113,
+        "begdate": "August 9, 1930",
+        "enddate": "August 9, 1930",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "TN",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Mountain City",
+        "station_id": "406287",
+        "value": -32,
+        "begdate": "December 30, 1917",
+        "enddate": "December 30, 1917",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+		"state":       "TN",
+		"element_seq": 8,
+		"current": [{"location":    "McEwen",
+		"station_id":  "N/A",
+		"value":       20.73,
+		"begdate":     "August 21, 2021",
+		"enddate":     "August 21, 2021",
+		"status":      "NSA",
+		"note_seq":    "120"}],
+    "previous": []
+	},
+  {
+    "state": "TX",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Alvin",
+        "station_id": "",
+        "value": 42,
+        "begdate": "July 25, 1979",
+        "enddate": "July 26, 1979",
+        "status": "EA",
+        "note_seq": "34"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "TX",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Hillsboro",
+        "station_id": "414182",
+        "value": 26,
+        "begdate": "December 20, 1929",
+        "enddate": "December 21, 1929",
+        "status": "NSA",
+        "note_seq": "93"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "TX",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Vega 2NW",
+        "station_id": "419330",
+        "value": 33,
+        "begdate": "February 7, 1956",
+        "enddate": "February 7, 1956",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "TX",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Seymour",
+        "station_id": "418221",
+        "value": 120,
+        "begdate": "August 12, 1936",
+        "enddate": "August 12, 1936",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Monahans",
+        "station_id": "415999",
+        "value": 120,
+        "begdate": "June 28, 1994",
+        "enddate": "June 28, 1994",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "TX",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Seminole",
+        "station_id": "418201",
+        "value": -23,
+        "begdate": "February 8, 1933",
+        "enddate": "February 8, 1933",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location":    "Tulia 6NE",
+        "station_id":  "419176",
+        "value":       -23,
+        "begdate":     "February 12, 1899",
+        "enddate":     "February 12, 1899",
+        "status":      "SA1",
+        "note_seq":    94
+      }
+    ],
+    "previous": []
+  },
+  {
+		"state":       "TX",
+		"element_seq": 24,
+		"current": [{"location":    "1 SSW Hondo",
+		"station_id":  "N/A",
+		"value":       1.26,
+		"begdate":     "April 28, 2021",
+		"enddate":     "April 28, 2021",
+		"status":      "SA",
+		"note_seq":    118}],
+    "previous": []
+	},
+	{
+		"state":       "TX",
+		"element_seq": 25,
+		"current": [{"location":    "1 SSW Hondo",
+		"station_id":  "N/A",
+		"value":       19.73,
+		"begdate":     "April 28, 2021",
+		"enddate":     "April 28, 2021",
+		"status":      "SA",
+		"note_seq":    118}],
+    "previous": []
+	},
+	{
+		"state":       "TX",
+		"element_seq": 26,
+		"current": [{"location":    "1 SSW Hondo",
+		"station_id":  "N/A",
+		"value":       6.416,
+		"begdate":     "April 28, 2021",
+		"enddate":     "April 28, 2021",
+		"status":      "SA",
+		"note_seq":    118}],
+    "previous": []
+	},
+	{
+		"state":       "TX",
+		"element_seq": 27,
+		"current": [{"location":    "1 SSW Hondo",
+		"station_id":  "N/A",
+		"value":       40.239,
+		"begdate":     "April 28, 2021",
+		"enddate":     "April 28, 2021",
+		"status":      "SA",
+		"note_seq":    118}],
+    "previous": []
+	},
+  {
+    "state": "UT",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Deer Creek Dam",
+        "station_id": "422057",
+        "value": 5.08,
+        "begdate": "February 1, 1963",
+        "enddate": "February 1, 1963",
+        "status": "NA",
+        "note_seq": "36"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "UT",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Alta",
+        "station_id": "420072",
+        "value": 38,
+        "begdate": "December 2, 1982",
+        "enddate": "December 2, 1982",
+        "status": "NA",
+        "note_seq": "37"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "UT",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Alta",
+        "station_id": "420072",
+        "value": 179,
+        "begdate": "April 5, 1958",
+        "enddate": "April 5, 1958",
+        "status": "N1A",
+        "note_seq": "38"
+      },
+      {
+        "location": "Alta",
+        "station_id": "420072",
+        "value": 179,
+        "begdate": "April 7, 1958",
+        "enddate": "April 7, 1958",
+        "status": "N1A",
+        "note_seq": "38"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "UT",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "St. George",
+        "station_id": "427516",
+        "value": 117,
+        "begdate": "July 5, 1985",
+        "enddate": "July 5, 1985",
+        "status": "EA",
+        "note_seq": "39"
+      },
+      {
+        "location": "St. George",
+        "station_id": "427516",
+        "value": 117,
+        "begdate": "July 10, 2021",
+        "enddate": "July 10, 2021",
+        "status": "ESA",
+        "note_seq": "39"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "UT",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Strawberry Tunnel (East)",
+        "station_id": "422319",
+        "value": -50,
+        "begdate": "January 5, 1913",
+        "enddate": "January 5, 1913",
+        "status": "NA",
+        "note_seq": "40"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VT",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Mt. Mansfield",
+        "station_id": "435416",
+        "value": 9.92,
+        "begdate": "September 17, 1999",
+        "enddate": "September 17, 1999",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VT",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Jay Peak",
+        "station_id": "434189",
+        "value": 42,
+        "begdate": "February 5, 1995",
+        "enddate": "February 5, 1995",
+        "status": "N",
+        "note_seq": "116"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VT",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Mt. Mansfield",
+        "station_id": "435416",
+        "value": 149,
+        "begdate": "April 2, 1969",
+        "enddate": "April 2, 1969",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VT",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Vernon",
+        "station_id": "438600",
+        "value": 107,
+        "begdate": "July 7, 1912",
+        "enddate": "July 7, 1912",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VT",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Bloomfield",
+        "station_id": "430690",
+        "value": -50,
+        "begdate": "December 30, 1933",
+        "enddate": "December 30, 1933",
+        "status": "E",
+        "note_seq": "41"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VT",
+    "element_seq": 24,
+    "current": [
+      {
+        "location": "Westford",
+        "station_id": "",
+        "value": 0.13125,
+        "begdate": "July 16, 2009",
+        "enddate": "July 16, 2009",
+        "status": "NSA",
+        "note_seq": "42"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VT",
+    "element_seq": 26,
+    "current": [
+      {
+        "location": "Westford",
+        "station_id": "",
+        "value": 3.3,
+        "begdate": "July 16, 2009",
+        "enddate": "July 16, 2009",
+        "status": "NSA",
+        "note_seq": "42"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VT",
+    "element_seq": 25,
+    "current": [
+      {
+        "location": "Westford",
+        "station_id": "",
+        "value": 6.8,
+        "begdate": "July 16, 2009",
+        "enddate": "July 16, 2009",
+        "status": "NSA",
+        "note_seq": "42"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VA",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Williamsburg 2N",
+        "station_id": "449151",
+        "value": 14.28,
+        "begdate": "September 16, 1999",
+        "enddate": "September 16, 1999",
+        "status": "NA",
+        "note_seq": 43
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VA",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Luray 5E",
+        "station_id": "445096",
+        "value": 33.5,
+        "begdate": "March 3, 1994",
+        "enddate": "March 3, 1994",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VA",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Big Meadows",
+        "station_id": "440720",
+        "value": 47,
+        "begdate": "January 7, 1996",
+        "enddate": "January 7, 1996",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VA",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Columbia",
+        "station_id": "441929",
+        "value": 110,
+        "begdate": "July 5, 1900",
+        "enddate": "July 5, 1900",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Columbia",
+        "station_id": "441929",
+        "value": 110,
+        "begdate": "July 7, 1900",
+        "enddate": "July 7, 1900",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Balcony Falls",
+        "station_id": "440411",
+        "value": 110,
+        "begdate": "July 15, 1954",
+        "enddate": "July 15, 1954",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VA",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Mountain Lake Biological Station",
+        "station_id": "445828",
+        "value": -30,
+        "begdate": "January 21, 1985",
+        "enddate": "January 21, 1985",
+        "status": "E",
+        "note_seq": 44
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VI",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Anna's Hope (SC)",
+        "station_id": "670260",
+        "value": 20,
+        "begdate": "September 4, 1979",
+        "enddate": "September 4, 1979",
+        "status": "NA",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VI",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "N/A",
+        "station_id": "",
+        "value": "",
+        "begdate": "",
+        "enddate": "",
+        "status": "EA",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VI",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "N/A",
+        "station_id": "",
+        "value": "",
+        "begdate": "",
+        "enddate": "",
+        "status": "EA",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VI",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Cruz Bay (St. John)",
+        "station_id": "671980",
+        "value": 99,
+        "begdate": "July 31, 1988",
+        "enddate": "July 31, 1988",
+        "status": "N1A",
+        "note_seq": ""
+      },
+      {
+        "location": "Charlotte Amalie (St. Thomas)",
+        "station_id": "11640",
+        "value": 99,
+        "begdate": "August 4, 1994",
+        "enddate": "August 4, 1994",
+        "status": "N1A",
+        "note_seq": ""
+      },
+      {
+        "location": "Charlotte Amalie (St. Thomas)",
+        "station_id": "11640",
+        "value": 99,
+        "begdate": "June 23, 1996",
+        "enddate": "June 23, 1996",
+        "status": "N1A",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "VI",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Anna's Hope (St. Croix)",
+        "station_id": "670260",
+        "value": 51,
+        "begdate": "January 31, 1954",
+        "enddate": "January 31, 1954",
+        "status": "NA",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WA",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Mt. Mitchell #2",
+        "station_id": "455668",
+        "value": 14.26,
+        "begdate": "November 23, 1986",
+        "enddate": "November 24, 1986",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WA",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Crystal Mountain Ski Resort",
+        "station_id": "NWAC",
+        "value": 65,
+        "begdate": "February 24, 1994",
+        "enddate": "February 24, 1994",
+        "status": "NA",
+        "note_seq": "45"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WA",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Rainier Paradise RS",
+        "station_id": "456898",
+        "value": 367,
+        "begdate": "March 9, 1956",
+        "enddate": "March 9, 1956",
+        "status": "N1",
+        "note_seq": ""
+      },
+      {
+        "location": "Rainier Paradise RS",
+        "station_id": "456898",
+        "value": 367,
+        "begdate": "March 10, 1956",
+        "enddate": "March 10, 1956",
+        "status": "N1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WA",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Hanford",
+        "station_id": "DOE Mesonet H100F",
+        "value": 120,
+        "begdate": "June 29, 2021",
+        "enddate": "June 29, 2021",
+        "status": "NSA",
+        "note_seq": "123"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WA",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Mazama",
+        "station_id": "455133",
+        "value": -48,
+        "begdate": "December 30, 1968",
+        "enddate": "December 30, 1968",
+        "status": "E2",
+        "note_seq": ""
+      },
+      {
+        "location": "Winthrop",
+        "station_id": "459376",
+        "value": -48,
+        "begdate": "December 30, 1968",
+        "enddate": "December 30, 1968",
+        "status": "E2",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WV",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Brushy Run",
+        "station_id": "461204",
+        "value": 12.02,
+        "begdate": "June 18, 1949",
+        "enddate": "June 18, 1949",
+        "status": "NA",
+        "note_seq": "46"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WV",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Flat Top",
+        "station_id": "463072",
+        "value": 35,
+        "begdate": "January 27, 1998",
+        "enddate": "January 28, 1998",
+        "status": "NA",
+        "note_seq": "47"
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WV",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Snowshoe",
+        "station_id": "468308",
+        "value": 62,
+        "begdate": "March 8, 1978",
+        "enddate": "March 8, 1978",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WV",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Moorefield",
+        "station_id": "466163",
+        "value": 112,
+        "begdate": "August 4, 1930",
+        "enddate": "August 4, 1930",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Martinsburg",
+        "station_id": "13734",
+        "value": 112,
+        "begdate": "July 10, 1936",
+        "enddate": "July 10, 1936",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WV",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Lewisburg",
+        "station_id": "465224",
+        "value": -37,
+        "begdate": "December 30, 1917",
+        "enddate": "December 30, 1917",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WV",
+    "element_seq": 18,
+    "current": [
+      {
+        "location": "Bayard",
+        "station_id": "460527",
+        "value": 158.2,
+        "begdate": "February 1, 2010",
+        "enddate": "February 28, 2010",
+        "status": "NA",
+        "note_seq": 97
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WI",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Mellen",
+        "station_id": "475286",
+        "value": 11.72,
+        "begdate": "June 24, 1946",
+        "enddate": "June 24, 1946",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WI",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Neillsville",
+        "station_id": "475808",
+        "value": 26,
+        "begdate": "December 26, 1904",
+        "enddate": "December 27, 1904",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WI",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Flambeau Reservoir",
+        "station_id": "472814",
+        "value": 83,
+        "begdate": "April 6, 1933",
+        "enddate": "April 6, 1933",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WI",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Wisconsin Dells",
+        "station_id": "479319",
+        "value": 114,
+        "begdate": "July 13, 1936",
+        "enddate": "July 13, 1936",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WI",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Couderay",
+        "station_id": "471847",
+        "value": -55,
+        "begdate": "February 2, 1996",
+        "enddate": "February 2, 1996",
+        "status": "E1",
+        "note_seq": ""
+      },
+      {
+        "location": "Couderay",
+        "station_id": "471847",
+        "value": -55,
+        "begdate": "February 4, 1996",
+        "enddate": "February 4, 1996",
+        "status": "E1",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WY",
+    "element_seq": 8,
+    "current": [
+      {
+        "location": "Cheyenne",
+        "station_id": "24018",
+        "value": 6.06,
+        "begdate": "August 1, 1985",
+        "enddate": "August 1, 1985",
+        "status": "E",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WY",
+    "element_seq": 16,
+    "current": [
+      {
+        "location": "Hunter Station",
+        "station_id": "484770",
+        "value": 49,
+        "begdate": "March 21, 1924",
+        "enddate": "March 21, 1924",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WY",
+    "element_seq": 19,
+    "current": [
+      {
+        "location": "Grassy Lake Dam",
+        "station_id": "484050",
+        "value": 128,
+        "begdate": "February 4, 1943",
+        "enddate": "February 4, 1943",
+        "status": "N",
+        "note_seq": ""
+      }
+    ],
+    "previous": []
+  },
+  {
+    "state": "WY",
+    "element_seq": 2,
+    "current": [
+      {
+        "location": "Basin",
+        "station_id": "480540",
+        "value": 115,
+        "begdate": "August 8, 1983",
+        "enddate": "August 8, 1983",
+        "status": "N1",
+        "note_seq": ""
+      }
+    ],
+    "previous": [
+      {
+        "location": "Diversion Dam",
+        "station_id": "482595",
+        "value": 115,
+        "begdate": "July 15, 1988",
+        "enddate": "July 15, 1988",
+        "status": "N1",
+        "note_seq": ""
+      }
+    ]
+  },
+  {
+    "state": "WY",
+    "element_seq": 3,
+    "current": [
+      {
+        "location": "Riverside Ranger Stn. (Yellowstone NP)",
+        "station_id": "",
+        "value": -66,
+        "begdate": "February 9, 1933",
+        "enddate": "February 9, 1933",
+        "status": "EA",
+        "note_seq": 48
+      }
+    ],
+    "previous": []
+  },
+  {
+		"state":       "WV",
+		"element_seq": 10,
+		"current": [{"location":    "Parsons 3SE (Hendricks)",
+		"station_id":  "USC00466867",
+		"value":       96.99,
+		"begdate":     "January 1, 2018",
+		"enddate":     "December 31, 2018",
+		"status":      "NS",
+		"note_seq":    106}],
+    "previous": []
+	}
+]

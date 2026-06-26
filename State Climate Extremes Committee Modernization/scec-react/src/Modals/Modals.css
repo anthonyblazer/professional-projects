@@ -1,0 +1,82 @@
+/* RecordsInfoModal.jsx */
+#custom-modal-body {
+    padding-left: 3rem; /* px-5 = 3rem */
+    padding-right: 3rem;
+    padding-top: 1.5rem; /* pt-4 = 1.5rem */
+    padding-bottom: 0; /* pb-0 = 0 */
+    font-weight: 400; /* fw-normal = normal = 400 */
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+  
+#adjustment p{
+    margin-bottom: 0.25rem;
+}
+  #primary-rs-btn {
+    background-color: rgb(8, 114, 236);
+    color: rgb(255, 255, 255);
+    padding: 0.5rem 1rem;
+    font-size: 1.1rem;
+  }
+  #primary-rs-btn:hover {
+    background-color: rgb(6, 77, 158);
+  }
+  #station-info-btn {
+    background-color: rgb(8, 114, 236);
+    color: rgb(255, 255, 255);
+    padding: 0.5rem 1rem;
+    font-size: 1.1rem;
+  }
+  #station-info-btn:hover {
+    background-color: rgb(6, 77, 158);
+  }
+  #close-button:hover {
+    background-color: rgb(106, 103, 103);
+  }
+  #close-button {
+    background-color: rgb(211, 211, 211);
+    padding: 0.5rem 1rem;
+    font-size: 1.1rem;
+  }
+  #x-close {
+    transform: scale(0.5);
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 0.25rem;
+    margin-top: 0.25rem;
+  }
+  li {
+    font-family: Arial, Helvetica;
+    font-size: 1.03rem;
+    list-style-type: none;
+    margin-bottom: 10px;
+  }
+  #record-status-display {
+    padding-left: 0rem;
+  }
+  #record-statuses li {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+  #record-statuses li strong {
+    min-width: 1.5ch;
+    text-align: right;
+    display: inline-block;
+  }
+  
+  #record-status-footer {
+    display: flex;
+    justify-content: center;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    border: 0;
+  }
+  #record-status-title {
+    font-size: 1.75rem;
+    width: 100%;
+    text-align: center;
+    padding-top: 3rem; /* pt-5 = 3rem */
+    padding-bottom: 3rem; /* pb-5 = 3rem */
+  }

@@ -1,0 +1,15 @@
+
+/* Corner X button */
+.modal-header .btn-close {
+    transform: scale(1.25) !important;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 0.75rem !important;
+    margin-top: 0.75rem !important;
+}
+
+.modal-header {
+    border-bottom: none;
+    padding-bottom: 8px;
+}

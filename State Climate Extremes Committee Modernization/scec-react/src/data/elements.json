@@ -1,0 +1,222 @@
+{
+  "2": {
+    "abbr": "tmax",
+    "groupId": 1,
+    "name": "All-Time Maximum Temperature",
+    "shortName": "Maximum Temperature",
+    "cbName": "Max",
+    "units": "&deg;F",
+    "textualUnits": "degrees F",
+    "core": true
+  },
+  "3": {
+    "abbr": "tmin",
+    "groupId": 1,
+    "name": "All-Time Minimum Temperature",
+    "shortName": "Minimum Temperature",
+    "cbName": "Min",
+    "units": "&deg;F",
+    "textualUnits": "degrees F",
+    "core": true
+  },
+  "4": {
+    "abbr": "trng",
+    "groupId": 1,
+    "name": "All-Time 24-Hour Temperature Range",
+    "shortName": "24-Hour Temperature Range",
+    "cbName": "24-Hr Range",
+    "units": "&deg;F",
+    "textualUnits": "degrees F",
+    "core": false
+  },
+  "8": {
+    "abbr": "maxp",
+    "groupId": 2,
+    "name": "All-Time Greatest 24-Hour Precipitation",
+    "shortName": "24-Hour Precipitation",
+    "cbName": "24-Hour",
+    "units": " in.",
+    "textualUnits": "inches",
+    "core": true
+  },
+  "9": {
+    "abbr": "aminp",
+    "groupId": 2,
+    "name": "Minimum Annual Precipitation Total",
+    "shortName": "Min Annual Precipitation",
+    "cbName": "Min Ann",
+    "units": " in.",
+    "textualUnits": "inches",
+    "core": false
+  },
+  "10": {
+    "abbr": "apcp",
+    "groupId": 2,
+    "name": "Maximum Annual Precipitation Total",
+    "shortName": "Max Annual Precipitation",
+    "cbName": "Max Ann",
+    "units": " in.",
+    "textualUnits": "inches",
+    "core": false
+  },
+  "11": {
+    "abbr": "wetp",
+    "groupId": 2,
+    "name": "Longest Wet Period",
+    "shortName": "Longest Wet Period",
+    "cbName": "Wet Period",
+    "units": " days",
+    "textualUnits": "days",
+    "core": false
+  },
+  "12": {
+    "abbr": "dryp",
+    "groupId": 2,
+    "name": "Longest Dry Period",
+    "shortName": "Longest Dry Period",
+    "cbName": "Dry Period",
+    "units": " days",
+    "textualUnits": "days",
+    "core": false
+  },
+  "13": {
+    "abbr": "mlypcp",
+    "groupId": 2,
+    "name": "Maximum Monthly Precipitation Total",
+    "shortName": "Monthly Precip",
+    "cbName": "Max Month",
+    "units": " in.",
+    "textualUnits": "inches",
+    "core": false
+  },
+  "16": {
+    "abbr": "maxs",
+    "groupId": 3,
+    "name": "All-Time Maximum 24-Hour Snowfall",
+    "shortName": "24-Hour Snowfall",
+    "cbName": "24-Hour",
+    "units": " in.",
+    "textualUnits": "inches",
+    "core": false
+  },
+  "17": {
+    "abbr": "ssnw",
+    "groupId": 3,
+    "name": "All-Time Maximum Seasonal (July-June) Snowfall",
+    "shortName": "Seasonal Snowfall",
+    "cbName": "Max Season",
+    "units": " in.",
+    "textualUnits": "inches",
+    "core": false
+  },
+  "18": {
+    "abbr": "msnw",
+    "groupId": 3,
+    "name": "Monthly Maximum Snowfall",
+    "shortName": "Monthly Snowfall",
+    "cbName": "Max Month",
+    "units": " in.",
+    "textualUnits": "inches",
+    "core": true
+  },
+  "19": {
+    "abbr": "snwd",
+    "groupId": 3,
+    "name": "All-Time Maximum Snow Depth",
+    "shortName": "Snow Depth",
+    "cbName": "Max Depth",
+    "units": " in.",
+    "textualUnits": "inches",
+    "core": true
+  },
+  "21": {
+    "abbr": "clear",
+    "groupId": 4,
+    "name": "Maximum Annual Number of Clear Days",
+    "shortName": "Max Annual Clear Days",
+    "cbName": "Annual Clear Days",
+    "units": " days",
+    "textualUnits": "days",
+    "core": false
+  },
+  "22": {
+    "abbr": "cldy",
+    "groupId": 4,
+    "name": "Maximum Annual Number of Cloudy Days",
+    "shortName": "Max Annual Cloudy Days",
+    "cbName": "Annual Cloudy Days",
+    "units": " days",
+    "textualUnits": "days",
+    "core": false
+  },
+  "24": {
+    "abbr": "hailw",
+    "groupId": 5,
+    "name": "Hail: Weight",
+    "shortName": "Hail: Weight",
+    "cbName": "Weight",
+    "units": " lb.",
+    "textualUnits": "pounds",
+    "core": false
+  },
+  "25": {
+    "abbr": "hailc",
+    "groupId": 5,
+    "name": "Hail: Circumference",
+    "shortName": "Hail: Circumference",
+    "cbName": "Circum",
+    "units": " in.",
+    "textualUnits": "inches",
+    "core": false
+  },
+  "26": {
+    "abbr": "haild",
+    "groupId": 5,
+    "name": "Hail: Diameter",
+    "shortName": "Hail: Diameter",
+    "cbName": "Diameter",
+    "units": " in.",
+    "textualUnits": "inches",
+    "core": false
+  },
+  "27": {
+    "abbr": "hailv",
+    "groupId": 5,
+    "name": "Hail: Volume",
+    "shortName": "Hail: Volume",
+    "cbName": "Volume",
+    "units": " cu. in.",
+    "textualUnits": "cubic inches",
+    "core": false
+  },
+  "28": {
+    "abbr": "gust",
+    "groupId": 6,
+    "name": "Maximum Wind Gust",
+    "shortName": "Wind Gust",
+    "cbName": "Max Gust",
+    "units": " mph",
+    "textualUnits": "mph",
+    "core": false
+  },
+  "29": {
+    "abbr": "hipress",
+    "groupId": 7,
+    "name": "Highest Mean Sea Level Pressure",
+    "shortName": "Highest Pressure",
+    "cbName": "Highest",
+    "units": " hPa",
+    "textualUnits": "hPa",
+    "core": false
+  },
+  "30": {
+    "abbr": "lopress",
+    "groupId": 7,
+    "name": "Lowest Mean Sea Level Pressure",
+    "shortName": "Lowest Pressure",
+    "cbName": "Lowest",
+    "units": " hPa",
+    "textualUnits": "hPa",
+    "core": false
+  }
+}

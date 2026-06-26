@@ -1,0 +1,44 @@
+{
+  "1": {
+    "abbr": "temp",
+    "name": "Surface Air Temperature",
+    "shortName": "Temperature",
+    "cbName": "Temp"
+  },
+  "2": {
+    "abbr": "prcp",
+    "name": "Precipitation",
+    "shortName": "Precipitation",
+    "cbName": "Precip"
+  },
+  "3": {
+    "abbr": "snow",
+    "name": "Snow",
+    "shortName": "Snow",
+    "cbName": "Snow"
+  },
+  "4": {
+    "abbr": "cloud",
+    "name": "Cloudiness",
+    "shortName": "Cloudiness",
+    "cbName": "Clouds"
+  },
+  "5": {
+    "abbr": "hail",
+    "name": "Hail",
+    "shortName": "Hail",
+    "cbName": "Hail"
+  },
+  "6": {
+    "abbr": "wind",
+    "name": "Wind",
+    "shortName": "Wind",
+    "cbName": "Wind"
+  },
+  "7": {
+    "abbr": "pressure",
+    "name": "Pressure",
+    "shortName": "Pressure",
+    "cbName": "Pressure"
+  }
+}
